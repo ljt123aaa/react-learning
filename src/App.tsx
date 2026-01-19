@@ -9,7 +9,6 @@ import Login from './Login';
 import PrivateRoute from './PrivateRoute';
 import ZustandLearn from './Zustand-learn';
 
-
 function App() {
   return (
     <Router>
